@@ -1,7 +1,7 @@
 Sometimes you might have a string which would actually be more useful to you as an array.
 
 ```javascript
-var data = "butter,sugar,eggs,flour";
+var data = "butter sugar eggs flour";
 ```
 
 The string `data` contains some information separated by spaces. You can split the string wherever there is a space and put the results into an array called `ingredients` like this:
