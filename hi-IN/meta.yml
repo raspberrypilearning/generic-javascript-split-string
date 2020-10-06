@@ -1,7 +1,7 @@
 ---
-title: Splitting a string in JavaScript
+title: JavaScript में एक स्ट्रिंग को विभाजित करना
 hero_image: images/banner.png
-description: Learn how to split a string into an array using JavaScript
+description: JavaScript का उपयोग करके एक स्ट्रिंग को एक ऐरे में विभाजित करने का तरीका जानें
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: भूमिका
